@@ -1,7 +1,7 @@
 # Univariate-Linear-Regression-
 Linear Regression with NumPy and Python
 
-We don't use any special libraby like sciket learn to perform this linear regression
+This project is basically to perform linear regression without use of any special library like scikit-learn
 
 It is very useful if you want to understand the logic behind the Linear Regression
 
